@@ -30,7 +30,7 @@ github_username:  gigapod
 # theme: minima
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 
 logo: "/assets/images/gigapod-logo-88.png"
 
