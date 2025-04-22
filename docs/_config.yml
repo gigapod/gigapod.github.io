@@ -28,7 +28,8 @@ github_username:  gigapod
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "neon"
 
 logo: "/assets/images/gigapod-logo-88.png"
@@ -46,8 +47,6 @@ defaults:
       related: true
 
 
-# remote_theme: pages-themes/midnight@v0.2.0
-# show_downloads: false
 plugins:
   - jekyll-feed
   - jekyll-include-cache
